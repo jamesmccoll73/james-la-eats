@@ -117,7 +117,7 @@
 							   
 			                  <div class="form-check d-flex justify-content-center mb-5">
 			                    <label class="form-check-label" for="form2Example3c" style="width:80%;">
-			                     I have read and agree to all terms and conditions of SalsEats
+			                     I have read and agree to all terms and conditions of James' LA Eats
 			                    <input type="checkbox" style="width:15%;" class="form-check-input me-2" value="" id="form2Example3c" required/> </label>
 			                  </div> 
 			                  
@@ -176,7 +176,7 @@
 						email: email
 					},
 					success: function(result) {
-						window.location.href = "http://localhost:8080/pa2_version2/loggedIn.jsp";		        
+						window.location.href = "http://localhost:8080/james-la-eats/loggedIn.jsp";		        
 					}
 				});	
 			}
